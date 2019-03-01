@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Athanasios-Spyridon Spanos's CV
+title: GIORGOS ROUVAS CV
 ---
-# Athanasios-Spyridon Spanos
+# GIORGOS ROUVAS
 Student of Informatics
 
 <div id="webaddress">
-<a href="thansp@cv.com">thansp@cv.com</a>
+<a href="giorgosrv@cv.com">giorgosrv@cv.com</a>
 |
 </div>
 
