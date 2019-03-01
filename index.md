@@ -1,23 +1,21 @@
 ---
 layout: cv
-title: GIORGOS ROUVAS CV
+title: Athanasios-Spyridon Spanos's CV
 ---
-# GIORGOS ROUVAS
-Physicist, Mathematician, Cambridge professor.
+# Athanasios-Spyridon Spanos
+Student of Informatics
 
 <div id="webaddress">
-<a href="rouvasgr@gmail.com">isaac@applesdofall.org</a>
-| <a href=""></a>
+<a href="thansp@cv.com">thansp@cv.com</a>
+|
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Studing to get my first degree in computer science.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
