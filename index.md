@@ -31,14 +31,6 @@ __3 LYKEIO , KASTORIAS__
 __IONIO PANEPISTIMIO__
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
