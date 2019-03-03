@@ -14,7 +14,9 @@ Student of Informatics
 
 Studing to get my first degree in computer science.
 
+##About me
 
+I am a third-year Department of Informatics Undergraduate Student at Ionian University. I have developed basic skills in some programming languages that I learn throughout my semester . Another key point that I want to mention is that I am hardworking and try very hard to get the best result as I also happen to be a perfectionist. 
 
 ## Education
 
@@ -30,39 +32,15 @@ __3 LYKEIO , KASTORIAS__
 `2018`
 __IONIO PANEPISTIMIO__
 
+Basic programming skills in:
+
+Java and Javascript
+C and C++
+
+## Other interests
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+I like sports but I prefer basketball. I still enjoy video games and walks with my friends
 
 
 <!-- ### Footer
