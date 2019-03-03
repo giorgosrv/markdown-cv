@@ -14,30 +14,24 @@ Student of Informatics
 
 Studing to get my first degree in computer science.
 
-### Specialized in
-
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2005-2011`
+__2 DHMOTIKO, KASTORIAS.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012-2015`
+__3 GYMNASIO , KASTORIAS__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015-2018`
+__3 LYKEIO , KASTORIAS__
 
 - Fellow
-
+`2018`
+__IONIO PANEPISTIMIO__
 
 
 ## Awards
